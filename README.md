@@ -1,0 +1,3 @@
+用于键盘检测的作业，记录自己的键盘使用情况。 
+本次作业基于我本人自己的电脑制作，如果有不一样的话可以自己在keyboard_release.py的create_keyboard修改键盘布局。 
+main.py是将键盘记录keyboard_detect.py和keyboard_release.py进行多线程调用的主函数。
